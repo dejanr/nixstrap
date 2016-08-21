@@ -1,2 +1,3 @@
 # nixtrap
-Bootstrap nixos system
+
+Scripts to bootstrap nixos system
